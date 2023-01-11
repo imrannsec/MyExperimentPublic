@@ -1,3 +1,4 @@
+text in file1 text modified
 text in file1 modify from master
 2nd line
 text in file1 text modified 4
